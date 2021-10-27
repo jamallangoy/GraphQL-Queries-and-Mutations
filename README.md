@@ -1,6 +1,6 @@
 # GraphQL Query and Mutations
 
-<img src="https://github.com/jamallangoy/ShoppingCart-V2-/blob/main/ShoppingCart(V2)%20Snippet.PNG" width="400px" height="200px" />
+<img src="https://github.com/jamallangoy/GraphQL-Queries-and-Mutations/blob/master/GraphQL%20Query%20and%20Mutation%20(Snippet%201).PNG?raw=true" width="400px" height="200px" />
 
 
 ## Version 1 - Week 24: GraphQL BuildSchema (Query and Mutations) (MIT XPro, October 2021)
