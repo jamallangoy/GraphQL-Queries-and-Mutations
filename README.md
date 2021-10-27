@@ -1,9 +1,9 @@
-# GraphQL Query and Mutations
+## GraphQL Query and Mutations
 
 <img src="https://github.com/jamallangoy/GraphQL-Queries-and-Mutations/blob/master/GraphQL%20Query%20and%20Mutation%20(Snippet%201).PNG?raw=true" width="400px" height="300px" />
 
 
-## Version 1 - Week 24: GraphQL BuildSchema (Query and Mutations) (MIT XPro, October 2021)
+# Version 1 - Week 24: GraphQL BuildSchema (Query and Mutations) (MIT XPro, October 2021)
 
 # Description
 
